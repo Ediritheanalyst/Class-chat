@@ -1,1 +1,81 @@
 # Class-chat
+
+# PowerBI-Reports
+
+This repository contains a Power BI report for analyzing demographic and employment data. The report provides insights into the composition and characteristics of a surveyed population.
+
+## Report Overview
+
+The Power BI report included in this repository provides insights into the following:
+- Total number of respondents
+- Gender distribution
+- Marital status
+- Educational background
+- Job occupation
+- Age range
+- Residential location by state
+
+## Insights
+
+### General Demographics
+- *Total Respondents*: 117 individuals participated in the survey.
+- *Gender Distribution*: 
+  - Male: 66
+  - Female: 51
+- *Marital Status*: 
+  - Single: 98
+  - Married: 18
+
+### Educational Background
+- The majority of respondents have various levels of education, with a significant number holding either a Higher National Diploma/Ordinary National Diploma (HND/OND) or a Senior Secondary Certificate Examination (SSCE).
+
+### Employment Status
+- *Employed*: The majority of respondents are employed.
+- *Self-employed*: A notable portion of respondents are self-employed.
+- *Unemployed*: There is also a considerable number of unemployed respondents.
+
+### Age Distribution
+- *Under 25*: The largest age group.
+- *26-35*: The second largest age group.
+- *36-45*: Fewer respondents fall into this age range.
+- *Over 45*: The smallest age group.
+
+### Residential Location
+- *Lagos*: The highest number of respondents reside in Lagos (59).
+- *Ogun*: The second highest number of respondents are from Ogun (35).
+- Other states like Oyo, Delta, FCT, and Anambra have fewer respondents.
+
+### Visual Summary
+1. *Total Count*:
+   - *Total Respondents*: 117
+   - *Male Respondents*: 66
+   - *Female Respondents*: 51
+
+2. *Marital Status*:
+   - *Single*: 98
+   - *Married*: 18
+
+3. *Educational Background*:
+   - Shows the count of respondents' highest level of education broken down by gender.
+
+4. *Job Occupation*:
+   - The bar chart depicts the job occupation distribution, separated by gender.
+
+5. *Age Range*:
+   - Bar chart shows the distribution of age ranges.
+
+6. *Count of Gender by Age Range*:
+   - Pie chart shows the count of gender within each age range.
+
+## Files
+
+- Demographic_Report.pbix: The Power BI report file containing all visuals and data insights.
+
+## How to Use
+
+1. Download the .pbix file from this repository.
+2. Open the file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Explore the different visuals and data insights provided in the report.
+
+![Class-chat](CLASS.jpg)
+![Class-chat](CLASS1.jpg)
